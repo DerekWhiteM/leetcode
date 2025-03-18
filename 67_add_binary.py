@@ -23,6 +23,3 @@ class Solution:
 			result.append(1)
 
 		return ''.join(map(str, result[::-1])) 
-
-solution = Solution()
-print(solution.addBinary('1010', '1011'))
