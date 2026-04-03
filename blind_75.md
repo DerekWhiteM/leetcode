@@ -31,7 +31,7 @@
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | 68.60% | Med. | [ ] |
 | 121 | Best Time to Buy and Sell Stock | 56.60% | Easy | [x] |
 | 124 | Binary Tree Maximum Path Sum | 42.10% | Hard | [ ] |
-| 125 | Valid Palindrome | 53.00% | Easy | [ ] |
+| 125 | Valid Palindrome | 53.00% | Easy | [x] |
 | 128 | Longest Consecutive Sequence | 47.00% | Med. | [ ] |
 | 133 | Clone Graph | 65.00% | Med. | [ ] |
 | 139 | Word Break | 49.30% | Med. | [ ] |
