@@ -49,7 +49,7 @@
 | 211 | Design Add and Search Words Data Structure | 48.30% | Med. | [ ] |
 | 212 | Word Search II | 38.30% | Hard | [ ] |
 | 213 | House Robber II | 44.70% | Med. | [ ] |
-| 217 | Contains Duplicate | 64.20% | Easy | [ ] |
+| 217 | Contains Duplicate | 64.20% | Easy | [x] |
 | 226 | Invert Binary Tree | 79.90% | Easy | [ ] |
 | 230 | Kth Smallest Element in a BST | 76.60% | Med. | [ ] |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | 70.30% | Med. | [ ] |
