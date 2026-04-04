@@ -7,7 +7,7 @@
 | 15 | 3Sum | 38.80% | Med. | [ ] |
 | 19 | Remove Nth Node From End of List | 51.30% | Med. | [ ] |
 | 20 | Valid Parentheses | 43.90% | Easy | [x] |
-| 21 | Merge Two Sorted Lists | 68.10% | Easy | [x] |
+| 21 | Merge Two Sorted Lists | 68.10% | Easy | [ ] |
 | 23 | Merge k Sorted Lists | 59.20% | Hard | [ ] |
 | 33 | Search in Rotated Sorted Array | 44.30% | Med. | [ ] |
 | 39 | Combination Sum | 76.30% | Med. | [ ] |
@@ -35,7 +35,7 @@
 | 128 | Longest Consecutive Sequence | 47.00% | Med. | [ ] |
 | 133 | Clone Graph | 65.00% | Med. | [ ] |
 | 139 | Word Break | 49.30% | Med. | [ ] |
-| 141 | Linked List Cycle | 54.10% | Easy | [x] |
+| 141 | Linked List Cycle | 54.10% | Easy | [ ] |
 | 143 | Reorder List | 64.90% | Med. | [ ] |
 | 152 | Maximum Product Subarray | 36.20% | Med. | [ ] |
 | 153 | Find Minimum in Rotated Sorted Array | 54.00% | Med. | [ ] |
@@ -43,7 +43,7 @@
 | 191 | Number of 1 Bits | 76.60% | Easy | [ ] |
 | 198 | House Robber | 53.10% | Med. | [ ] |
 | 200 | Number of Islands | 64.10% | Med. | [ ] |
-| 206 | Reverse Linked List | 80.40% | Easy | [x] |
+| 206 | Reverse Linked List | 80.40% | Easy | [ ] |
 | 207 | Course Schedule | 51.10% | Med. | [ ] |
 | 208 | Implement Trie (Prefix Tree) | 69.30% | Med. | [ ] |
 | 211 | Design Add and Search Words Data Structure | 48.30% | Med. | [ ] |
