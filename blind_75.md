@@ -13,7 +13,7 @@
 | 39 | Combination Sum | 76.30% | Med. | [ ] |
 | 48 | Rotate Image | 79.50% | Med. | [ ] |
 | 49 | Group Anagrams | 72.40% | Med. | [ ] |
-| 53 | Maximum Subarray | 53.10% | Med. | [ ] |
+| 53 | Maximum Subarray | 53.10% | Med. | [x] |
 | 54 | Spiral Matrix | 56.50% | Med. | [ ] |
 | 55 | Jump Game | 40.70% | Med. | [ ] |
 | 56 | Merge Intervals | 51.50% | Med. | [ ] |
