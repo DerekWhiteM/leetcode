@@ -19,7 +19,7 @@
 | 56 | Merge Intervals | 51.50% | Med. | [ ] |
 | 57 | Insert Interval | 45.00% | Med. | [ ] |
 | 62 | Unique Paths | 66.70% | Med. | [ ] |
-| 70 | Climbing Stairs | 54.00% | Easy | [ ] |
+| 70 | Climbing Stairs | 54.00% | Easy | [x] |
 | 73 | Set Matrix Zeroes | 62.70% | Med. | [ ] |
 | 76 | Minimum Window Substring | 47.20% | Hard | [ ] |
 | 79 | Word Search | 47.10% | Med. | [ ] |
