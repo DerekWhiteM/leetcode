@@ -54,7 +54,7 @@
 | 230 | Kth Smallest Element in a BST | 76.60% | Med. | [ ] |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | 70.30% | Med. | [ ] |
 | 238 | Product of Array Except Self | 68.70% | Med. | [ ] |
-| 242 | Valid Anagram | 67.90% | Easy | [ ] |
+| 242 | Valid Anagram | 67.90% | Easy | [x] |
 | 252 | Meeting Rooms | 59.40% | Easy | [ ] |
 | 253 | Meeting Rooms II | 52.60% | Med. | [ ] |
 | 261 | Graph Valid Tree | 49.90% | Med. | [ ] |
