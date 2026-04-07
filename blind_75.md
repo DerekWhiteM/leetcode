@@ -43,7 +43,7 @@
 | 191 | Number of 1 Bits | 76.60% | Easy | [ ] |
 | 198 | House Robber | 53.10% | Med. | [ ] |
 | 200 | Number of Islands | 64.10% | Med. | [ ] |
-| 206 | Reverse Linked List | 80.40% | Easy | [ ] |
+| 206 | Reverse Linked List | 80.40% | Easy | [x] |
 | 207 | Course Schedule | 51.10% | Med. | [ ] |
 | 208 | Implement Trie (Prefix Tree) | 69.30% | Med. | [ ] |
 | 211 | Design Add and Search Words Data Structure | 48.30% | Med. | [ ] |
