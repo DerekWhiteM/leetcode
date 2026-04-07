@@ -58,7 +58,7 @@
 | 252 | Meeting Rooms | 59.40% | Easy | [ ] |
 | 253 | Meeting Rooms II | 52.60% | Med. | [ ] |
 | 261 | Graph Valid Tree | 49.90% | Med. | [ ] |
-| 268 | Missing Number | 71.80% | Easy | [ ] |
+| 268 | Missing Number | 71.80% | Easy | [x] |
 | 269 | Alien Dictionary | 37.10% | Hard | [ ] |
 | 271 | Encode and Decode Strings | 51.40% | Med. | [ ] |
 | 295 | Find Median from Data Stream | 54.30% | Hard | [ ] |
