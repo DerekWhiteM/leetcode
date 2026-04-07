@@ -7,7 +7,7 @@
 | 15 | 3Sum | 38.80% | Med. | [ ] |
 | 19 | Remove Nth Node From End of List | 51.30% | Med. | [ ] |
 | 20 | Valid Parentheses | 43.90% | Easy | [x] |
-| 21 | Merge Two Sorted Lists | 68.10% | Easy | [ ] |
+| 21 | Merge Two Sorted Lists | 68.10% | Easy | [x] |
 | 23 | Merge k Sorted Lists | 59.20% | Hard | [ ] |
 | 33 | Search in Rotated Sorted Array | 44.30% | Med. | [ ] |
 | 39 | Combination Sum | 76.30% | Med. | [ ] |
