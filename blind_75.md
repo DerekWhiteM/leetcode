@@ -35,7 +35,7 @@
 | 128 | Longest Consecutive Sequence | 47.00% | Med. | [ ] |
 | 133 | Clone Graph | 65.00% | Med. | [ ] |
 | 139 | Word Break | 49.30% | Med. | [ ] |
-| 141 | Linked List Cycle | 54.10% | Easy | [ ] |
+| 141 | Linked List Cycle | 54.10% | Easy | [x] |
 | 143 | Reorder List | 64.90% | Med. | [ ] |
 | 152 | Maximum Product Subarray | 36.20% | Med. | [ ] |
 | 153 | Find Minimum in Rotated Sorted Array | 54.00% | Med. | [ ] |
