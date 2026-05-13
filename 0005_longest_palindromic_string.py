@@ -1,6 +1,6 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        
+
         if len(s) == 0:
             return ""
         if len(s) == 1:
@@ -8,12 +8,11 @@ class Solution:
 
         num_centers = 2 * len(s) - 1
         longest_palindrome = s[0]
-        
+
         # for each center, expand while chars on each side match
         # start between first and second char
 
         for i in range(num_centers):
-
             left = 0
             right = 0
 
@@ -36,9 +35,7 @@ class Solution:
                 left -= 1
                 right += 1
 
-            current_palindrome = s[best_left:best_right+1]
-            if len(current_palindrome) > len(longest_palindrome):
-                longest_palindrome = current_palindrome
+            if best_right + 1 - best_left > len(longest_palindrome):
+                longest_palindrome = s[best_left : best_right + 1]
 
         return longest_palindrome
-        
